@@ -1,0 +1,58 @@
+<svg fill="none" viewBox="0 0 700 400" width="700" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				svg {
+					font-family: Mono;
+					font-size: 16px;
+				}
+				div {
+					display: flex;
+					flex-direction: column;
+					margin: 10px;
+					height: 15cap;
+					width:	50ch ;
+					background-color: #0f1019;
+					color: white;
+					-webkit-box-shadow: 0px 0px 0px 10px rgba(15,16,25,1);
+					-moz-box-shadow: 0px 0px 0px 10px rgba(15,16,25,1);
+					box-shadow: 0px 0px 0px 10px rgba(15,16,25,1);
+					border: 6px solid #b887cc;
+					padding: 30px;
+					color: #bfc1d5;
+				}
+				p {
+					padding: 0;
+					margin: 0;
+				}
+				.ac { color: #b887cc; }
+				.di { color: #808297; }
+				.ri { float: right; }
+				a, a:visited {
+					color: #808297;
+					text-decoration: none;
+					display: inline;
+				}
+			</style>
+			<p> # Hello World_ </p>
+			<p>​</p>
+			<p> Welcome to my github profile, </p>
+			<p> here you can find some of my random projects </p>
+			<p>​</p>
+			<p> [<a href="https://github.com/6gk/polka">My Dotfiles</a>](/polka) </p>
+			<p> [<a href="https://github.com/6gk/fet.sh">Fetch in POSIX sh</a>](/fet.sh) </p>
+			<p> [<a href="https://github.com/6gk/scr">Screenshot &amp; Recording Script</a>](/scr) </p>
+			<p>​</p>
+			<p> And remember, [<a href="https://github.com/buffet/kiwmi">star kiwmi</a>](/buffet/kiwmi) </p>
+			<p>​</p>
+			<p>
+			nor <span class='ac'>|</span> <span class='di'>README.md</span>
+			<span class='ri'>
+			<span class='di'> 1,14 </span>
+			<span class='ac'> | </span>
+			<span> md </span>
+			</span>
+			</p>
+		</div>
+	</foreignObject>
+</svg>
