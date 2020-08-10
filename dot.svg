@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 350" width="600" height="350" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
@@ -11,7 +11,7 @@
 					flex-direction: column;
 					margin: 10px;
 					height: 15cap;
-					width:	508px ;
+					width:  508px;
 					background-color: #0f1019;
 					color: white;
 					-webkit-box-shadow: 0px 0px 0px 10px rgba(15,16,25,1);
@@ -36,7 +36,7 @@
 				.cu {
 					animation: blink 1.5s step-end infinite;
 				}
-        @keyframes blink { 50% { visibility: hidden; } }
+				@keyframes blink { 50% { visibility: hidden; } }
 			</style>
 			<p> # Hello World<span class='cu'>_</span> </p>
 			<p>​</p>

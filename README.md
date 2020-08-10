@@ -1,5 +1,7 @@
 ![](https://i.imgur.com/v8OqidV.png)
 
+<br>
+
 <div align="center">
-	<img src="https://github.com/6gk/6gk/raw/master/dot.svg">
+	<img src="https://github.com/6gk/6gk/raw/master/dot.svg" height="350px">
 </div>
