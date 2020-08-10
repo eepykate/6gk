@@ -29,12 +29,16 @@
 				.di { color: #808297; }
 				.ri { float: right; }
 				a, a:visited {
-					color: #808297;
+					color: #b887cc;
 					text-decoration: none;
 					display: inline;
 				}
+				.cu {
+					animation: blink 1.5s step-end infinite;
+				}
+        @keyframes blink { 50% { visibility: hidden; } }
 			</style>
-			<p> # Hello World_ </p>
+			<p> # Hello World<span class='cu'>_</span> </p>
 			<p>​</p>
 			<p> Welcome to my github profile, </p>
 			<p> here you can find some of my random projects </p>
