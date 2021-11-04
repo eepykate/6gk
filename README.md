@@ -8,7 +8,7 @@
  - [fet.sh](https://github.com/6gk/fet.sh) (fetch in pure posix sh)
  - [lsd](https://github.com/6gk/lsd) (the best version of ls)
 
-## Other things that are pog:
+## Other cool things:
  - [kiwmi](https://github.com/buffet/kiwmi) (star, or else)
  - [cpm](https://github.com/willeccles/cpm) (consistent package manager wrapper)
  - [kmonad](https://github.com/kmonad/kmonad) (epic keyboard manager)
